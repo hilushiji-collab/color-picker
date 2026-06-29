@@ -1,0 +1,16 @@
+# 构建产物
+build/
+*.app/
+
+# 分发包
+*.dmg
+*.zip
+
+# 签名私钥（绝不上传）
+*.p12
+ColorPicker/.signing/qusheqi.p12
+
+# 调试 / 临时
+*.log
+.DS_Store
+.claude/
